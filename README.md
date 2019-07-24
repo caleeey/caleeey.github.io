@@ -1,4 +1,4 @@
-# Hydeout
+# H
 
 Hydeout updates the original [Hyde](https://github.com/poole/hyde)
 theme for [Jekyll](http://jekyllrb.com) 3.x and adds new functionality.
@@ -29,6 +29,11 @@ title: Home
 
 You'll also need to add a setting to `_config.yml` telling Jekyll how many posts
 to include per page (e.g. `paginate: 5`).
+
+
+### RNN & GRU
+
+RNN의 상위 버전인 GRU
 
 ### Keep It Simple
 
