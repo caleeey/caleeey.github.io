@@ -1,3 +1,7 @@
+---
+layout: post
+title: "programming study"
+---
 
 
 ### input -> sys.stdin.readline()
