@@ -35,6 +35,12 @@ to include per page (e.g. `paginate: 5`).
 
 RNN의 상위 버전인 GRU
 
+
+### python import sys
+
+In python, it's better to use sys.stdin.readline() than input() because of time error issue. It's usefully decrease time delay than input() grammar. Before you use it, you shoud import sys.
+
+
 ### Keep It Simple
 
 In keeping with the original Hyde theme, Hydeout aims to keep the overall
